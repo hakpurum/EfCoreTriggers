@@ -1,0 +1,11 @@
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreTriggersConsole\bin\Debug\netcoreapp2.1\EfCoreTriggersConsole.deps.json
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreTriggersConsole\bin\Debug\netcoreapp2.1\EfCoreTriggersConsole.runtimeconfig.json
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreTriggersConsole\bin\Debug\netcoreapp2.1\EfCoreTriggersConsole.runtimeconfig.dev.json
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreTriggersConsole\bin\Debug\netcoreapp2.1\EfCoreTriggersConsole.dll
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreTriggersConsole\obj\Debug\netcoreapp2.1\EfCoreTriggersConsole.csprojAssemblyReference.cache
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreTriggersConsole\obj\Debug\netcoreapp2.1\EfCoreTriggersConsole.csproj.CoreCompileInputs.cache
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreTriggersConsole\obj\Debug\netcoreapp2.1\EfCoreTriggersConsole.AssemblyInfoInputs.cache
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreTriggersConsole\obj\Debug\netcoreapp2.1\EfCoreTriggersConsole.AssemblyInfo.cs
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreTriggersConsole\bin\Debug\netcoreapp2.1\EfCoreTriggersConsole.pdb
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreTriggersConsole\obj\Debug\netcoreapp2.1\EfCoreTriggersConsole.dll
+C:\Users\hasan.akpurum.TUKETIMGRUBU\source\repos\EfCoreExample\EfCoreTriggersConsole\obj\Debug\netcoreapp2.1\EfCoreTriggersConsole.pdb
