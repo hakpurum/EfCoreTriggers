@@ -10,7 +10,7 @@ namespace EfCoreTriggersConsole.Infrastructure
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"data source=5.189.173.160;initial catalog=EfCoreAutoHistory;persist security info=True;user id=yazlmcv2mssql;password=Lnh9*g48;MultipleActiveResultSets=True;");
+            optionsBuilder.UseSqlServer(@"data source=*******;initial catalog=EfCoreAutoHistory;persist security info=True;user id=******;password=*******;MultipleActiveResultSets=True;");
         }
 
         public virtual DbSet<User> Users { get; set; }
